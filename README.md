@@ -1,16 +1,15 @@
-### Hi there 👋
 
-<!--
-**joaopedromiyake/joaopedromiyake** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+</h1> <img align="right" height="150" src="https://user-images.githubusercontent.com/100698182/210180843-be2c0a9c-25ff-416a-9e0d-dd4c745609ea.gif"/>
+<div>
+  
+ ```
+Hello I'm João Pedro Miyake Vieira!👨🏽‍💻 
 
-Here are some ideas to get you started:
+📚 I graduated in computer networks at ETEC.
+💻 I'm learning about programming ethical hacking operating systems, especially on linux.
+✉  mjpmiyakevieira.com
+🎮 I love playing video games.
+⛹🏽 I love to play basketball.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```
+ 
