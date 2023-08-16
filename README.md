@@ -6,14 +6,14 @@
 Hello I'm João Pedro Miyake Vieira!👨🏽‍💻 
 
 📚 I graduated in computer networks at ETEC.
-📖 I'm studying information security college.
+📖 I'm studying information security at college.
 💻 I'm learning about ethical hacking, operating systems especially on linux.
 ✉  mjpmiyakevieira.com
 🎮 I love playing video games.
 
 ```
 
-<p align="center">  
+<p align="left">  
   <a href="http://github.com/joaopedromiyake">
   <img align="center" height="120em" src="http://github-readme-stats.vercel.app/api?username=joaopedromiyake&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img align="center"height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaopedromiyake&layout=compact&langs_count=16&theme=dracula"/>
@@ -28,9 +28,10 @@ Hello I'm João Pedro Miyake Vieira!👨🏽‍💻
   <img align="center" alt="joaopedromiyake-github" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg">
   <img align="center" alt="joaopedromiyake-Linux" height="30" width="40" 
 src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg">
-    <img align="center" alt="joaopedromiyake-Bash" height="30" width="40" 
+  <img align="center" alt="joaopedromiyake-Bash" height="30" width="40" 
 src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-plain.svg">
-
+  <img align="center" alt="joaopedromiyake-Visualstudiocode" height="30" width="40" 
+src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg">
 
   
 </div>
