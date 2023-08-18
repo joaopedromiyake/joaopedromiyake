@@ -13,11 +13,14 @@ Hello I'm João Pedro Miyake Vieira!👨🏽‍💻
 
 ```
 
-<p align="center">  
-  <a href="http://github.com/joaopedromiyake">
-  <img align="center" height="120em" src="http://github-readme-stats.vercel.app/api?username=joaopedromiyake&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img align="center"height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaopedromiyake&layout=compact&langs_count=16&theme=dracula"/>
-</p>  
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=joaopedromiyake" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=joaopedromiyake&layout=compact&langs_count=8&card_width=320" />
+</a>
+
 
 <div style="display: inline_block"><br>
   
