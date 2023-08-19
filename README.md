@@ -10,17 +10,12 @@ Hello I'm João Pedro Miyake Vieira!👨🏽‍💻
 💻 I'm learning about ethical hacking, operating systems especially on linux.
 ✉  mjpmiyakevieira.com
 🎮 I love playing video games.
-
 ```
-
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=joaopedromiyake" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=joaopedromiyake&layout=compact&langs_count=8&card_width=320" />
-</a>
-
+<div>
+<a href="https://github.com/seu-usuário-aqui">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaopedromiyake&layout=compact&langs_count=7&theme=dracula"/>  
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=joaopedromiyake&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
 
 <div style="display: inline_block"><br>
   
@@ -44,7 +39,9 @@ src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualst
  <a href="http://www.linkedin.com/in/jo%C3%A3o-pedro-miyake-vieira-88ba4b1a1" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
-  
+
+![Snake animation](https://github.com/joaopedromiyake/joaopedromiyake/blob/output/github-contribution-grid-snake.svg)
+
 </div>
 
  
