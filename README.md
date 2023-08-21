@@ -37,11 +37,8 @@ src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualst
 
 <div> 
   <a href="https://www.youtube.com/channel/UCoBpqAdkMcRGlQCUGma3n3g" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href="https://instagram.com/joaopedromiyake?utm_source=qr&igshid=NGExMmI2YTkyZg%3D%3D" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- <a href="http://www.linkedin.com/in/jo%C3%A3o-pedro-miyake-vieira-88ba4b1a1" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- <a href="https://twitter.com/joaopedromiyake?t=4iPvvI28XhXc3AJCo0as3w&s=09" target="_blank"><img
-src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
- <a href = "mjpmiyakevieira@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+ <a href="http://www.linkedin.com/in/jo%C3%A3o-pedro-miyake-vieira-88ba4b1a1" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+ <a href="mailto:mjpmiyakevieira@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   
 </div>
 
