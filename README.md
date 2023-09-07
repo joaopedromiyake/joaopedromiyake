@@ -42,7 +42,7 @@ src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualst
   
 </div>
 
-https://github.com/joaopedromiyake/joaopedromiyake
+
 
 </div>
 
