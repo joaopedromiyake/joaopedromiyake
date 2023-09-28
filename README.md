@@ -42,7 +42,7 @@ src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualst
   
 </div>
 
-
+![snake gif](https://github.com/joaopedromiyake/joaopedromiyake/blob/output/github-contribution-grid-snake.svg)
 
 </div>
 
