@@ -26,6 +26,8 @@ Hello I'm João Pedro Miyake Vieira!👨🏽‍💻
   <img align="center" alt="joaopedromiyake-PHP" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg">
   <img align="center" alt="joaopedromiyake-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="joaopedromiyake-github" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg">
+  <img align="center" alt="joaopedromiyake-Git" height="30" width="40" 
+src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
   <img align="center" alt="joaopedromiyake-Linux" height="30" width="40" 
 src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg">
   <img align="center" alt="joaopedromiyake-Bash" height="30" width="40" 
